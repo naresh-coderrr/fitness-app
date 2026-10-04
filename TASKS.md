@@ -48,9 +48,9 @@ reliable handoff point when changing AI tools or resuming after a token limit.
 ## Progress tracker
 
 ### Phase 0 — Foundation
-- [ ] **0.1** Expo project, theme, shared components
-- [ ] **0.2** Supabase client and session handling
-- [ ] **0.3** Navigation shell and auth gate
+- [x] **0.1** Expo project, theme, shared components
+- [x] **0.2** Supabase client and session handling
+- [x] **0.3** Navigation shell and auth gate
 
 ### Phase 1 — Core database
 - [ ] **1.1** Core schema: profiles, groups, members
